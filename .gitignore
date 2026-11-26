@@ -1,0 +1,43 @@
+# ==========================================
+# GeoGen AI — Git Ignore
+# ==========================================
+
+# Secrets & Environment Configurations
+.env
+.env.*
+*.env
+!.env.example
+
+# Python Virtual Environments & Caches
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Node & Frontend Build Artifacts
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.npm
+.eslintcache
+*.local
+
+# Temporary Files, Screenshots & Logs
+clipboard_screenshot*.png
+*.log
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
