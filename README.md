@@ -1,6 +1,6 @@
 # GeoGen AI — Real-Time Spatial Trip & Location Intelligence Platform
 
-[![Live App](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://yash-chavan-29.github.io/geogen-ai/)
+[![Live App](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://sanjanaprabhu17.github.io/geogen-ai/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Chavan-29/geogen-ai)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
@@ -9,7 +9,7 @@
 
 **GeoGen AI** turns natural-language travel and routing queries into structured, grounded, and actionable trip dossiers with live road geometry across India. It integrates **Mapbox GL JS** for real spatial route geometry and turn-by-turn navigation handoff to Google Maps, **Google Gemini** for intelligent chat assistance and itinerary synthesis, an **NLP aspect review pipeline**, and vector PDF export.
 
-🚀 **Live Public App:** [https://yash-chavan-29.github.io/geogen-ai/](https://yash-chavan-29.github.io/geogen-ai/)
+🚀 **Live Public App:** [https://sanjanaprabhu17.github.io/geogen-ai/](https://sanjanaprabhu17.github.io/geogen-ai/)
 
 ---
 
